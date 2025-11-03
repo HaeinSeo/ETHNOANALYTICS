@@ -16,7 +16,7 @@
 ---
 
 ### 🌍 About the Project
-The project leverages the <a href="https://archive.ics.uci.edu/dataset/382/geographical+origin+of+music">UCI “Geographical Origin of Music” dataset</a>  
+The project leverages the <a href="https://archive.ics.uci.edu/dataset/315/geographical+original+of+music">UCI “Geographical Origin of Music” dataset</a>  
 and applies dimensionality reduction techniques such as  
 <b>UMAP (Uniform Manifold Approximation and Projection)</b> and clustering algorithms (<i>K-Means, DBSCAN</i>)  
 to uncover hidden patterns among musical styles across continents.  
