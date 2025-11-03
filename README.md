@@ -2,4 +2,12 @@
 <p align="center">
   <img src="logo%20(1).png" width="200" alt="ETHNOANALYTICS Logo">
 </p>
-A cross-cultural data visualization project exploring the geographical origins of music using audio features and ethnographic metadata.  음악의 지리적 기원과 문화적 다양성을 데이터로 분석하고 시각화하는 프로젝트입니다. 전 세계 음악 데이터셋(예: UCI “Geographical Origin of Music”)을 기반으로, 리듬, 템포, 스케일, 악기 특징 등을 통해 지역별 음악적 특성을 탐색합니다.
+음악은 단순한 예술 형태를 넘어, 각 지역의 문화적 정체성과 역사적 흐름을 반영하는 사회적 언어입니다.
+ETHNOANALYTICS는 전 세계 음악 데이터를 기반으로,
+지역별 음악의 리듬(rhythm), 템포(tempo), 스케일(scale), 악기 구성(instrumentation), 조성(key signature) 등의 음향적 특징을 분석하여
+지리적 기원(geographical origin) 과 문화적 연관성(cultural connectivity) 을 시각적으로 탐색하는 프로젝트입니다.
+
+The project leverages the UCI “Geographical Origin of Music” dataset
+ and applies
+dimensionality reduction techniques such as UMAP (Uniform Manifold Approximation and Projection) and clustering algorithms (e.g., K-Means, DBSCAN)
+to uncover hidden patterns among musical styles across continents.
